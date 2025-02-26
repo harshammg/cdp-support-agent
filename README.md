@@ -32,7 +32,7 @@ A modern, intelligent chatbot designed to provide assistance and guidance for mu
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cdp-support-agent.git
+git clone https://github.com/harshammg/cdp-support-agent.git
 ```
 
 2. Install dependencies
